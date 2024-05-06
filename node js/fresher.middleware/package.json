@@ -1,5 +1,5 @@
 {
-  "name": "exprees",
+  "name": "fresher.middleware",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,11 +10,9 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "devDependencies": {
-    "nodemon": "^3.1.0"
-  },
   "dependencies": {
     "express": "^4.19.2",
-    "pnpm": "^8.15.6"
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
   }
 }
